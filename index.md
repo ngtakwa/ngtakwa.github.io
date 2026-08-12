@@ -18,7 +18,7 @@ I am interested in applying **Stochastic Control** and **Game Theory** in **Actu
 
 ## Working Papers
 
-1. Boonen, T. J., **Ng, T. W.**, & Nguyen, T. Contractibility, Peer-to-Peer Insurance, and Moral Hazard. *Working Paper*. (<a href="https://ssrn.com/abstract=6320070">SSRN</a>)
+1. Boonen, T. J., **Ng, T. W.**, & Nguyen, T. Contractibility, Peer-to-Peer Insurance, and Moral Hazard. *SSRN preprint*. (<a href="https://ssrn.com/abstract=6320070">SSRN</a>)
 2. Boonen, T. J., Ng, K. T. H., **Ng, T. W.**, & Nguyen, T. (2026). Pareto and Bowley reinsurance games in peer-to-peer insurance. *arXiv preprint*. (<a href="https://arxiv.org/abs/2602.14223">arXiv</a>)
 3. Boonen, T. J., Chong, W. F., Ng, K. T. H., & **Ng, T. W.** (2026). Nash Peer-to-Peer Insurance Bargaining under Price Fairness and Coalitional Stability. *arXiv preprint*. (<a href="https://arxiv.org/abs/2608.09859">arXiv</a>)
 
