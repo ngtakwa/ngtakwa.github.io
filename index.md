@@ -1,3 +1,5 @@
+<img src="assets/img/avatar2.png" width="160" align="right" style="margin-left: 20px; margin-bottom: 10px; border-radius: 50%;">
+
 I am Tak Wa Ng, a Postdoctoral Fellow in the Department of Statistics and Actuarial Science at the University of Hong Kong, advised by [Prof. Wing Fung (Alfred) Chong](https://sites.google.com/view/wingfungalfredchong/home). Before, I earned my Ph.D. in Actuarial Science under the supervision of [Prof. Thai Nguyen](https://sites.google.com/view/htnguyen/home).
 
 ## Education Background
