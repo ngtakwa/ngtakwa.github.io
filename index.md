@@ -1,17 +1,19 @@
-<div style="float: right; margin-left: 20px; margin-bottom: 20px; text-align: center; width: 160px;">
-  <img src="assets/img/avatar2.png" width="160" style="border-radius: 50%; object-fit: cover;">
+<div style="float: right; width: 160px; margin-left: 20px; margin-bottom: 20px; text-align: center;">
+  <!-- 大頭照 -->
+  <img src="assets/img/avatar2.png" width="160" height="160" style="display: block !important; border-radius: 50%; object-fit: cover; margin: 0 auto 12px auto;">
   
-  <div style="margin-top: 12px; display: flex; justify-content: center; gap: 15px;">
-    <a href="https://scholar.google.com/citations?user=OmgMLTUAAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="26" height="26" alt="Google Scholar">
+  <!-- 下方 Logo 區域 -->
+  <div style="text-align: center; width: 100%;">
+    <a href="https://scholar.google.com/citations?user=OmgMLTUAAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar" style="display: inline-block; margin-right: 15px; text-decoration: none; border: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="26" height="26" alt="Google Scholar" style="display: inline-block !important; vertical-align: middle; margin: 0 !important; border: none;">
     </a>
-    <a href="https://orcid.org/0000-0003-0841-8826" target="_blank" title="ORCID">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="26" height="26" alt="ORCID">
+    <a href="https://orcid.org/0000-0003-0841-8826" target="_blank" title="ORCID" style="display: inline-block; text-decoration: none; border: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="26" height="26" alt="ORCID" style="display: inline-block !important; vertical-align: middle; margin: 0 !important; border: none;">
     </a>
   </div>
 </div>
 
-I am Tak Wa Ng, a Postdoctoral Fellow in the Department of Statistics and Actuarial Science at The University of Hong Kong, advised by [Prof. Wing Fung (Alfred) Chong](https://sites.google.com/view/wingfungalfredchong/home). Before, I earned my Ph.D. in Actuarial Science under the supervision of [Prof. Thai Nguyen](https://sites.google.com/view/htnguyen/home).
+I am Tak Wa Ng, a Postdoctoral Fellow in the Department of Statistics and Actuarial Science at The University of Hong Kong...
 
 ## Education Background
 * **Ph.D. in Actuarial Science**, Université Laval, *Jan 2021 - Mar 2026*
