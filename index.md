@@ -2,7 +2,7 @@ I am Tak Wa Ng, a Postdoctoral Fellow in the Department of Statistics and Actuar
 
 ## Education Background
 * **Ph.D. in Actuarial Science**, Université Laval, *Jan 2021 - Mar 2026*
-* **M.Sc. in Finance**, Ulm University, *Oct 2018 - Sep 2020*
+* **M.Sc. in Finance**, Universität Ulm, *Oct 2018 - Sep 2020*
 * **B.Sc. in Mathematical Science**, Hong Kong Baptist University, *Sep 2010 - Jun 2013*
 
 ## Research Interests
