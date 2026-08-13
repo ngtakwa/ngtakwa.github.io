@@ -1,15 +1,10 @@
 <div style="float: right; margin-left: 20px; margin-bottom: 20px; text-align: center; width: 160px;">
-  <!-- 個人相片 -->
   <img src="assets/img/avatar2.png" width="160" style="border-radius: 50%; object-fit: cover;">
   
-  <!-- 相片下方的 Icon 連結 -->
   <div style="margin-top: 12px; display: flex; justify-content: center; gap: 15px;">
-    <!-- Google Scholar -->
     <a href="https://scholar.google.com/citations?user=OmgMLTUAAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="26" height="26" alt="Google Scholar">
     </a>
-    
-    <!-- ORCID -->
     <a href="https://orcid.org/0000-0003-0841-8826" target="_blank" title="ORCID">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="26" height="26" alt="ORCID">
     </a>
