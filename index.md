@@ -1,3 +1,34 @@
+<!-- 強制全站 Dark Mode 樣式 -->
+<style>
+  body {
+    background-color: #1c1c1d !important;
+    color: #e1e1e3 !important;
+  }
+  h1, h2, h3, h4, h5, h6, strong, b {
+    color: #ffffff !important;
+  }
+  a {
+    color: #64b5f6 !important;
+  }
+  a:hover {
+    color: #90caf9 !important;
+  }
+  hr {
+    border-color: #38383a !important;
+  }
+  table th, table td {
+    border-color: #38383a !important;
+  }
+  code, pre {
+    background-color: #2c2c2e !important;
+    color: #f2f2f7 !important;
+  }
+  blockquote {
+    border-left-color: #444444 !important;
+    color: #a1a1a6 !important;
+  }
+</style>
+
 <div style="float: right; width: 160px; margin-left: 20px; margin-bottom: 20px; text-align: center;">
   <!-- 大頭照 -->
   <img src="assets/img/avatar2.png" width="160" height="160" style="display: block !important; border-radius: 50%; object-fit: cover; margin: 0 auto 12px auto;">
