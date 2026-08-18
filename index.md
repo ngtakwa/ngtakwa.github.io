@@ -58,7 +58,7 @@ I am interested in applying **Stochastic Control** and **Game Theory** in **Actu
 
 <ol reversed>
   <li><strong>Ng, T. W.</strong>, & Nguyen, T. (2025). Individual survivor fund account: The impact of bequest motives on tontine participation. <i><b>Insurance: Mathematics and Economics</b></i>, 125, 103161. (<a href="https://doi.org/10.1016/j.insmatheco.2025.103161">Link</a>)</li>
-  <li><strong>Ng, T. W.</strong>, & Nguyen, T. (2025). Pareto efficiency and financial fairness under limited expected loss constraint. <i><b>Journal of Mathematical Economics</b></i>, 117, 103096. (<a href="https://doi.org/10.1016/j.jmateco.2024.103096">Link</a>)</li>
+  <li><strong>Ng, T. W.</strong>, & Nguyen, T. (2025). Pareto efficiency and financial fairness under limited expected loss constraint. <i><b>Journal of Mathematical Economics</b></i>, 117, 103096. (<a href="https://doi.org/10.1016/j.jmateco.2025.103096">Link</a>)</li>
   <li><strong>Ng, T. W.</strong>, & Nguyen, T. (2023). Portfolio performance under benchmarking relative loss and portfolio insurance: From omega ratio to loss aversion. <i><b>ASTIN Bulletin: The Journal of the IAA</b></i>, 53(1), 149-183. (<a href="https://doi.org/10.1017/asb.2022.28">Link</a>)</li>
 </ol>
 
