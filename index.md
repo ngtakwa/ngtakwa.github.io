@@ -69,8 +69,9 @@ I am interested in applying **Stochastic Control** and **Game Theory** in **Actu
 3. Boonen, T. J., Chong, W. F., Ng, K. T. H., & **Ng, T. W.** (2026). Nash Peer-to-Peer Insurance Bargaining under Price Fairness and Coalitional Stability. *arXiv preprint*. (<a href="https://arxiv.org/abs/2608.09859">arXiv</a>)
 
 ## Peer-review Services
-* Mathematical Methods of Operations Research
-* North American Actuarial Journal
+* Mathematical Methods of Operations Research (1)
+* North American Actuarial Journal (1)
+* Insurance: Mathematics and Economics (1) 
 
 ## Professional Certifications
 * Financial Risk Manager (FRM®)
