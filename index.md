@@ -76,6 +76,7 @@ I am interested in applying **Stochastic Control** and **Game Theory** in **Actu
 ## Professional Certifications
 * Financial Risk Manager (FRM®)
 * Passed CFA Level II Examination
+* Passed SOA Exam: P
 
 ## Miscellaneous
 * I spent two years backpacking in Australia, where I completed my first skydive and bungee jump.
